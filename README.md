@@ -1,18 +1,22 @@
-This project is an **AI-based mental health chatbot** designed to provide supportive conversations and address queries related to mental well-being. It serves as a friendly and accessible first step for individuals seeking mental health guidance.
+# ✅ AI Mental Health Chatbot – Conversational Support for Well-Being
+An AI-powered mental health chatbot designed to offer supportive, context-aware conversations for users seeking initial mental health guidance. This project serves as a private and empathetic platform that provides a safe space for expressing emotions and receiving helpful advice.
 
-**🚀 Features**
+**🔍 Key Features:**
 
-💬 Conversational Support: Users can interact with the chatbot to discuss their mental health concerns in a safe, private environment.
+💬 Natural conversation flow with a focus on mental well-being and emotional support.
 
-🤖 Powered by OpenAI GPT-3.5 Turbo: Ensures context-aware, empathetic, and intelligent responses.
+🤖 Powered by OpenAI GPT-3.5 Turbo, enabling intelligent and emotionally sensitive dialogue.
 
-🖥️ Frontend Built with Streamlit: A lightweight and interactive user interface for a seamless chat experience.
+🖥️ Developed a clean and interactive UI using Streamlit, offering real-time chat experience without setup overhead.
 
+**🧠 Architecture Highlights:**
 
-**🛠️ Tech Stack**
+Context-persistent API interaction using OpenAI’s chat completion models.
 
-Backend: OpenAI GPT-3.5 Turbo
+Stateless session management handled on the frontend using Python Streamlit features.
 
-Frontend: Streamlit (Python)
+Clean modular backend code structure with extensibility for multi-user deployment or sentiment analysis add-ons.
 
-Language: Python 3.x
+**🛠️ Tech Stack:** Python 3.x, OpenAI GPT-3.5 Turbo, Streamlit
+
+**🎯 What It Demonstrates:** REST-like API consumption, modular backend development, integration with AI/LLMs, and user-centric design.
